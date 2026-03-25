@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "question": "What is 15 multiplied by 4?",
+    "formula": "15 \\times 4",
+    "choices": ["45", "50", "60", "75"],
+    "correct_answer": "60"
+  },
+  {
+    "id": 2,
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "question": "Solve for x: x - 12 = 20",
+    "formula": "x - 12 = 20",
+    "choices": ["8", "32", "24", "40"],
+    "correct_answer": "32"
+  },
+  {
+    "id": 3,
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "question": "How many sides does a hexagon have?",
+    "formula": "n-gon",
+    "choices": ["5", "6", "7", "8"],
+    "correct_answer": "6"
+  },
+  {
+    "id": 4,
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "What is the value of 3^3?",
+    "formula": "3^3",
+    "choices": ["9", "18", "21", "27"],
+    "correct_answer": "27"
+  },
+  {
+    "id": 5,
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "question": "What is the square root of 81?",
+    "formula": "\\sqrt{81}",
+    "choices": ["7", "8", "9", "10"],
+    "correct_answer": "9"
+  },
+  {
+    "id": 6,
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "question": "Find the area of a rectangle with length 8 and width 5.",
+    "formula": "A = l \\times w",
+    "choices": ["13", "35", "40", "45"],
+    "correct_answer": "40"
+  },
+  {
+    "id": 7,
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "Simplify: 2(x + 4)",
+    "formula": "2(x + 4)",
+    "choices": ["2x + 4", "2x + 8", "x + 8", "4x + 2"],
+    "correct_answer": "2x + 8"
+  },
+  {
+    "id": 8,
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "question": "What is 1/2 + 1/4?",
+    "formula": "\\frac{1}{2} + \\frac{1}{4}",
+    "choices": ["1/6", "2/6", "3/4", "1/2"],
+    "correct_answer": "3/4"
+  },
+  {
+    "id": 9,
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "What is the sum of angles in a triangle?",
+    "formula": "180^{\\circ}",
+    "choices": ["90°", "180°", "270°", "360°"],
+    "correct_answer": "180°"
+  },
+  {
+    "id": 10,
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "If y = 2x + 1, what is y when x = 5?",
+    "formula": "y = 2(5) + 1",
+    "choices": ["10", "11", "12", "15"],
+    "correct_answer": "11"
+  }
+]
